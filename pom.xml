@@ -35,8 +35,9 @@
                 <version>3.0.0-M1</version>
                 <configuration>
                     <goals>
-                        <goal>install</goal>
+                        install
                     </goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>
