@@ -23,11 +23,6 @@
         <java.version>11</java.version>
         <start-class>com.korustlt.petclinic.PetClinicApplication</start-class>
     </properties>
-
-    <dependencies>
-
-    </dependencies>
-
     <build>
         <plugins>
             <plugin>
