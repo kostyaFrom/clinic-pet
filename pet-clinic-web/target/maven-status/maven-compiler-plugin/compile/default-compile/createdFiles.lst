@@ -1,1 +1,3 @@
+com\korustlt\petclinic\controllers\IndexController.class
 com\korustlt\petclinic\PetClinicApplication.class
+com\korustlt\petclinic\controllers\VetController.class
