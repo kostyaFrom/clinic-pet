@@ -1,10 +1,14 @@
+com\korustlt\petclinic\sevices\map\AbstractMapService.class
+com\korustlt\petclinic\sevices\map\PetServiceMap.class
+com\korustlt\petclinic\sevices\OwnerService.class
+com\korustlt\petclinic\sevices\PetService.class
 com\korustlt\petclinic\sevices\CrudService.class
 com\korustlt\petclinic\sevices\VetService.class
 com\korustlt\petclinic\model\PetType.class
+com\korustlt\petclinic\sevices\map\OwnerServiceMap.class
 com\korustlt\petclinic\model\Owner.class
+com\korustlt\petclinic\sevices\map\VetServiceMap.class
 com\korustlt\petclinic\model\Person.class
-com\korustlt\petclinic\sevices\OwnerService.class
-com\korustlt\petclinic\sevices\PetService.class
 com\korustlt\petclinic\model\BaseEntity.class
 com\korustlt\petclinic\model\Pet.class
 com\korustlt\petclinic\model\Vet.class
