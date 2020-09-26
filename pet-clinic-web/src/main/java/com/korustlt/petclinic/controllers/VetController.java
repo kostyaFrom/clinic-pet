@@ -14,7 +14,7 @@ public class VetController {
         this.vetService = vetService;
     }
 
-    @RequestMapping({"/vets", "/vets/index", "/vets/index.html"}) // это все будет соответствовать index.html
+    @RequestMapping({"/vets", "/vets/index", "/vets/index.html", "/vets.html"}) // это все будет соответствовать index.html
     public String listVets(Model model) {
         model.addAttribute("vets", vetService.findAll());
         return "vets/index"; // find in templates/vets/index.html
