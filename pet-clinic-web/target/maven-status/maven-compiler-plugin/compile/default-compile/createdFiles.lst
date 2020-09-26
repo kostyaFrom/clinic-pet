@@ -1,3 +1,5 @@
 com\korustlt\petclinic\controllers\IndexController.class
+com\korustlt\petclinic\bootstrap\DataLoader.class
 com\korustlt\petclinic\PetClinicApplication.class
 com\korustlt\petclinic\controllers\VetController.class
+com\korustlt\petclinic\controllers\OwnerController.class
